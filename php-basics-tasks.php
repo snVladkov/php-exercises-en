@@ -1,17 +1,17 @@
 <?php
 
-// задача индексиран масив
+// task indexed array
 $arr = [1,3,6,22,-5,2,9];
 
-// задача асоциативен масив
+// task associative array
 $student = [
     'name' => 'Simeon Vladkov',
     'discipline' => 'Server-side web programming',
     'grade' => 5.5381
 ];
 
-// задачи control flow
-// асоциативен масив 1
+// control flow tasks
+// аssociative array 1
 $students = [
     [
         'name' => 'George Smith',
@@ -35,7 +35,7 @@ $students = [
     ],
 ];
 
-// асоциативен масив 2
+// associative array 2
 $products = [
     [
         'name' => 'HONOR MagicBook X16 Pro',
@@ -69,7 +69,7 @@ $products = [
     ]
 ];
 
-// асоциативен масив 3
+// associative array 3
 $positions = [
     [
         'name' => 'CEO',
