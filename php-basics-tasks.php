@@ -6,7 +6,7 @@ $arr = [1,3,6,22,-5,2,9];
 // задача асоциативен масив
 $student = [
     'name' => 'Simeon Vladkov',
-    'discipline' => 'Server-side web programing',
+    'discipline' => 'Server-side web programming',
     'grade' => 5.5381
 ];
 
