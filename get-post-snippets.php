@@ -98,7 +98,7 @@
             'price' => '$699.99'
         ],
         [
-            'image' => 'https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=600&q=80',
+            'image' => 'https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=600&q=80',
             'title' => 'Razer Blade 15',
             'price' => '$1599.99'
         ]
