@@ -40,7 +40,7 @@
     </main>
     <footer class="bg-dark text-center py-5 mt-auto">
         <div class="container">
-            <span class="text-light">© 2024 All rights reserved</span>
+            <span class="text-light">© <?php echo date("Y"); ?> All rights reserved</span>
         </div>
     </footer>
 </body>
